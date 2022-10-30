@@ -147,6 +147,6 @@ input#new-task {
   width: 224px;
 }
 
-.list .list__item.edit-mode .label {
+.list .list__item.edit-mode label {
   display: none;
 }
