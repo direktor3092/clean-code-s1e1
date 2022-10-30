@@ -150,3 +150,14 @@ input#new-task {
 .list .list__item.edit-mode label {
   display: none;
 }
+
+.section-add__title{
+  padding-bottom: 10px;
+}
+.task-wrapper{
+  margin-top: 20px;
+  margin-bottom: 14px;
+}
+.main{
+  margin-top: 13px;
+}
